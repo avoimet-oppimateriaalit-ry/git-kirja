@@ -1,5 +1,6 @@
 # Summary
 
+* [Lisenssi](lisenssi/README.md)
 * [Workflow](workflow/README.md)
    * [Feature branch -paradigma](workflow/feature-branch.md)
 * [Komennot](komennot/README.md)
@@ -14,7 +15,7 @@
    * [fetch](komennot/fetch.md)
    * [gitk](komennot/gitk.md)
    * [grep](komennot/grep.md)
-   * [init](komennot/init.md)
+   * [init](komennot/init.md)
    * [log](komennot/log.md)
    * [merge](komennot/merge.md)
    * [pull](komennot/pull.md)
@@ -26,3 +27,4 @@
    * [status](komennot/status.md)
    * [submodule](komennot/submodule.md)
    * [tag](komennot/tag.md)
+

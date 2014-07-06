@@ -1,4 +1,3 @@
-git-kirja
-=========
+# git-kirja
 
-Pieni Git-kirja.
+Pieni Git-kirja. Toistaiseksi kesken.
